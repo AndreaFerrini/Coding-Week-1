@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+header {
+    background-color: rgb(1,93,135);
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
+
+body{
+    background-image: url(../img/sfondo-mare.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+h1, h2 {
+    color: rgb(255, 255, 128);
+}
+
+
+section {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid rgb(255, 255, 128);
+}
+
+
+p {
+    line-height: 1.5;
+    color: rgb(255, 255, 128);
+}
+
+
+a {
+    color: #135b8b;
+    text-decoration: none;
+}
+
+
+a:hover {
+    text-decoration: underline;
+}
